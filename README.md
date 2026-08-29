@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/deborasilvestre/deborasilvestre/stats-output/stats.svg" height="150" alt="stats graph"  />
+  
   <img src="https://raw.githubusercontent.com/deborasilvestre/deborasilvestre/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
